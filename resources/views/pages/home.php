@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <section class="bg-primary text-white text-center py-5 vh-100" style="background-image: url(/images/adelitas_way_lubbock_tx.webp); background-size: cover; background-position: center;">
     <div class="container">
-        <img src="/images/adelitas_way_logo.png" alt="Adelitas Way Logo" style="filter: invert(1);" class="mt-5">
+        <img src="/images/adelitas_way_logo.png" alt="Adelitas Way Logo" style="filter: invert(1);" class="mt-5 mw-100 object-fit-contain">
     </div>
 </section>
 
@@ -96,7 +96,7 @@
                 </div>
                 <div class="col-12 p-2 text-center">
                     <a href="https://x.com/adelitasway" target="_blank" class="btn btn-lg rounded-0 text-light border-light" style="min-width: 140px;" role="button" aria-pressed="true">
-                        <i class="fab fa-x-twitter"></i> X
+                        <i class="fab fa-x-twitter"></i>
                     </a>
                 </div>
                 <div class="col-12 p-2 text-center">
