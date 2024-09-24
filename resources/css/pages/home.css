@@ -1,0 +1,17 @@
+#tour, #about {
+    background-image: url('/images/leather_texture.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+#connect {
+    background-image: url('/images/adelitas_way_boseman_mt.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+#connect h2 {
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 3em;
+}
