@@ -1,8 +1,9 @@
 #tour, #about {
-    background-image: url('/images/leather_texture.jpg');
+    background-image: url('/images/leather_texture.webp');
     background-repeat: repeat;
     background-size: cover;
-    background-blend-mode: multiply;
+    background-blend-mode: overlay;
+    background-color: #222;
 }
 
 #connect {

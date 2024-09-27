@@ -3,6 +3,7 @@
     <div class="container text-center">
         <p class="mb-0 text-light">&copy; <?= date('Y'); ?> Adelitas Way</p>
         <p class="mb-0 text-light">designed + developed by <a href="https://gnarhard.com">gnarhard</a></p>
+        <!-- <a href="/credits" class="mb-0 text-light">image credits</a> -->
     </div>
 </footer>
 

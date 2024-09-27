@@ -1,6 +1,5 @@
-html {
-    background-color: #000012;
-    max-width: 100%;
+html, body {
+    background-color: var(--bg-color);
 }
 
 main {

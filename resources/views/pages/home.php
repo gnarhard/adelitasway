@@ -1,11 +1,11 @@
 <!-- Hero Section -->
-<section class="bg-primary text-white text-center py-5 vh-100" style="background-image: url(/images/adelitas_way_lubbock_tx.webp); background-size: cover; background-position: center;">
+<section class="text-white text-center py-5 vh-100" style="background-image: url(/images/adelitas_way_lubbock_tx.webp); background-size: cover; background-position: center;">
     <div class="container">
-        <img src="/images/adelitas_way_logo.png" alt="Adelitas Way Logo" style="filter: invert(1);" class="mt-5 mw-100 object-fit-contain">
+        <img src="/images/adelitas_way_logo.webp" alt="Adelitas Way Logo" style="filter: invert(1);" class="mt-5 mw-100 object-fit-contain">
     </div>
 </section>
 
-<section class="bg-dark" id="about">
+<section class="" id="about">
     <div class="container py-5">
         <div class="row mx-auto">
             <div class="col-md-6 mb-3 mb-md-0 pe-md-1">
@@ -36,7 +36,7 @@
     </div>
 </section>
 
-<section class="py-5 bg-dark" id="tour">
+<section class="py-5" id="tour">
     <div class="container">
         <div class="row">
             <h2 class="text-center" style="font-size: 4rem;">TOUR</h2>
@@ -46,7 +46,7 @@
     </div>
 </section>
 
-<section class="py-5 bg-dark" id="connect">
+<section class="py-5" id="connect">
     <div class="container py-5">
         <div class="row">
             <div class="col-6">
