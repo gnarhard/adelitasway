@@ -5,11 +5,11 @@
     </div>
 </section>
 
-<section class="row bg-dark" id="about">
+<section class="bg-dark" id="about">
     <div class="container py-5">
         <div class="row mx-auto">
-            <div class="col-md-6 mb-3 mb-md-0 pe-md-1 d-flex justify-content-center justify-content-md-end">
-                <img src="/images/adelitas_way_trio.jpeg" alt="Adelitas Way" class="mw-100 object-fit-contain shadow">
+            <div class="col-md-6 mb-3 mb-md-0 pe-md-1">
+                <img src="/images/adelitas_way_trio.jpeg" alt="Adelitas Way" class="mw-100 object-fit-contain shadow rounded">
             </div>
             <style>
                 #moreText {
@@ -121,6 +121,7 @@
         if (moreText.style.maxHeight) {
             moreText.style.maxHeight = null;
             readMoreLink.textContent = "read more...";
+            document.getElementById("about").scrollIntoView({ behavior: "smooth" });
         } else {
             moreText.style.maxHeight = moreText.scrollHeight + "px";
             readMoreLink.textContent = "read less...";
