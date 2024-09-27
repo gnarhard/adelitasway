@@ -17,6 +17,9 @@
                     <a class="nav-link" href="https://merch.adelitaswaymusic.com/">MERCH</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="https://adelitaswaymerch.bigcartel.com/">EXCLUSIVES</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="#connect">CONNECT</a>
                 </li>
             </ul>
